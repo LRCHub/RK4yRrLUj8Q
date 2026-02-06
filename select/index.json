@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "エンドレス (Live at Yokohama Budokan 2022/5/28)",
+  "base_artist": "超ときめき♡宣伝部",
+  "createdAt": "2026-02-06T13:45:42.354721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エンドレス・サマー",
+      "artist": "Cascada",
+      "has_synced": false,
+      "path": "select/01_エンドレス・サマー_Cascada.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エンドレス",
+      "artist": "Abbath",
+      "has_synced": false,
+      "path": "select/02_エンドレス_Abbath.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エンドレス・サマー",
+      "artist": "Battle Beast",
+      "has_synced": true,
+      "path": "select/03_エンドレス・サマー_Battle_Beast.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エンドレス",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/04_エンドレス_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エンドレス",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/05_エンドレス_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エンドレス",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/06_エンドレス_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エンドレス",
+      "artist": "超ときめき♡宣伝部",
+      "has_synced": true,
+      "path": "select/07_エンドレス_超ときめき♡宣伝部.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エンドレス・サマー",
+      "artist": "八神純子",
+      "has_synced": true,
+      "path": "select/08_エンドレス・サマー_八神純子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "エンドレス・ウェイズ",
+      "artist": "アナセマ",
+      "has_synced": true,
+      "path": "select/09_エンドレス・ウェイズ_アナセマ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Endless [エンドレス]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/10_Endless_[エンドレス]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ミラクル×パニック?エンドレス",
+      "artist": "ミルキィホームズ",
+      "has_synced": true,
+      "path": "select/11_ミラクル×パニック_エンドレス_ミルキィホームズ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "エンドレス・てゐマパーク",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/12_エンドレス・てゐマパーク_IOSYS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "エンドレス -1983FMGROOVE-",
+      "artist": "キャプテンミライ",
+      "has_synced": false,
+      "path": "select/13_エンドレス_-1983FMGROOVE-_キャプテンミライ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "エンドレス・てゐマパーク",
+      "artist": "とろ美",
+      "has_synced": true,
+      "path": "select/14_エンドレス・てゐマパーク_とろ美.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "エンドレス・サマー (ENDLESS SUMMER)",
+      "artist": "八神純子",
+      "has_synced": true,
+      "path": "select/15_エンドレス・サマー_(ENDLESS_SUMMER)_八神純子.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "エンドレス・てゐマパーク",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/16_エンドレス・てゐマパーク_IOSYS.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "エンドレス・てゐマパーク",
+      "artist": "Arm",
+      "has_synced": true,
+      "path": "select/17_エンドレス・てゐマパーク_Arm.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "エンドレス.てゐマパーク",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/18_エンドレス.てゐマパーク_IOSYS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンドレス",
+      "artist": "超ときめき♡宣伝部",
+      "has_synced": false,
+      "path": "select/pl_01_エンドレス_超ときめき♡宣伝部.txt"
+    }
+  ]
+}
